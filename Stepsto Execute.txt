@@ -1,0 +1,12 @@
+Execution plan:
+
+Open New terminal
+
+--> terraform init
+--> terraform validate
+--> terraform plan 
+--> terraform apply 
+
+destory all resources
+===============
+--> terraform destroy --auto-approve
